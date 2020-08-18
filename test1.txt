@@ -1,0 +1,10 @@
+ Volume in drive E has no label.
+ Volume Serial Number is 5569-EB50
+
+ Directory of E:\GIT\MyProject
+
+18-08-2020  16:41    <DIR>          .
+18-08-2020  16:41    <DIR>          ..
+18-08-2020  16:41                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  178,005,479,424 bytes free
